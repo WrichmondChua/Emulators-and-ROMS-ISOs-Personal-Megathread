@@ -17,5 +17,5 @@
 
     **Note: meaning to say, this emulator can play Game Boy and Game Boy Color games as well.**
 
-**ROMS and ISOs to be included soon.
+**ROMS and ISOs to be included soon.**
 
